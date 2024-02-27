@@ -54,6 +54,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/karthikeyan-R16/WDM_EXP1/assets/119421232/4dce73cb-5680-4d54-a6be-618ebc60fd11)
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP1/assets/119421232/c2d243e9-98d0-4cbd-959b-a9533d5d8832)
 
 
 ### PREPROCESSING
@@ -76,6 +79,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/karthikeyan-R16/WDM_EXP1/assets/119421232/df939e4d-e8cd-4154-98b7-358cc06ba083)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +98,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP1/assets/119421232/0c886e58-f265-447e-94c0-23922e5c97dd)
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +117,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP1/assets/119421232/4710c271-38dc-47ad-ae92-b8f3232f721e)
+
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
